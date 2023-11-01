@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://yavirac.edu.ec/img/Logo%20Yavirac.png" width="350" alt="tarea" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://yavirac.edu.ec/img/Logo%20Yavirac.png" width="200" alt="tarea" /></a>
 </p>
 
 
