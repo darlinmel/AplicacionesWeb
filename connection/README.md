@@ -13,6 +13,11 @@
 
 ## S2-P1: Conección a la base de datos Psql
 
+Lugar de los archivos del deber
+```bash
+cd connection/src/petshop/  
+```
+
 # Veterinaria
 <p align="center">
   <a href="" target="blank"><img src="https://github.com/darlinmel/AplicacionesWeb/blob/main/connection/taller2.png" width="800" alt="tarea" /></a>
