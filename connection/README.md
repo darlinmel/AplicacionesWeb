@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://yavirac.edu.ec/img/Logo%20Yavirac.png" width="200" alt="tarea" /></a>
+  <a href="https://eva.yavirac.edu.ec/" target="blank"><img src="https://yavirac.edu.ec/img/Logo%20Yavirac.png" width="200" alt="tarea" /></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 
 # Veterinaria
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/darlinmel/AplicacionesWeb/blob/main/connection/taller2.png" width="500" alt="tarea" /></a>
+  <a href="" target="blank"><img src="https://github.com/darlinmel/AplicacionesWeb/blob/main/connection/taller2.png" width="800" alt="tarea" /></a>
 </p>
 
 
