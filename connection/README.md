@@ -26,6 +26,9 @@ cd connection/src/petshop/
 
 ## Integrantes
 
+
+
+
 ```bash
 # Roger Pineda
 # Darlin Allauca
